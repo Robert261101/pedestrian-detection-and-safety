@@ -14,7 +14,7 @@ This project implements a pedestrian detection system using Python and OpenCV. T
 
 
 
-Requirements
+    Requirements
 
 
 Python 3.x
