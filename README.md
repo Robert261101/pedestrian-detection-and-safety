@@ -12,7 +12,10 @@ This project implements a pedestrian detection system using Python and OpenCV. T
 -Gracefully handles the end of the video file and user input for quitting the application.
 
 
+
+
 Requirements
+
 
 Python 3.x
 
